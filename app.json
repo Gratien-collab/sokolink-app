@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SokoLink",
-    "slug": "sokolink-app",
+    "slug": "sokolink",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
