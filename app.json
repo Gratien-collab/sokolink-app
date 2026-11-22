@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SokoLink",
+    "slug": "sokolink-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/sokolink-icon.png",
+    "splash": {
+      "image": "./assets/sokolink-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#087A45"
+    },
+    "android": {
+      "package": "com.sokolink.marketplace",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/sokolink-icon.png",
+        "backgroundColor": "#087A45"
+      }
+    }
+  }
+}
