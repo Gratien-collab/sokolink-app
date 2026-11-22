@@ -19,6 +19,11 @@
         "foregroundImage": "./sokolink-icon.png",
         "backgroundColor": "#087A45"
       }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "707bb3ef-82c3-47d3-9b2f-b9f0d94c080a"
+      }
     }
   }
 }
